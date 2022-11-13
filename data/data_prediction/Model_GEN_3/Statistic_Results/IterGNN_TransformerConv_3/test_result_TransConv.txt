@@ -1,0 +1,124 @@
+number of vehicle: 1, number of obstacle: 0
+number of trajectories: 4063
+success to goal rate: 0.9894166588783264
+collision rate: 0
+
+number of vehicle: 1, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.9372230172157288
+collision rate: 0.005322563927620649
+
+number of vehicle: 1, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.8956179022789001
+collision rate: 0.01145138032734394
+
+number of vehicle: 1, number of obstacle: 3
+number of trajectories: 4062
+success to goal rate: 0.8850319981575012
+collision rate: 0.016024162992835045
+
+number of vehicle: 1, number of obstacle: 4
+number of trajectories: 4062
+success to goal rate: 0.871738076210022
+collision rate: 0.02193760871887207
+
+number of vehicle: 2, number of obstacle: 0
+number of trajectories: 4062
+success to goal rate: 0.9982767105102539
+collision rate: 0.007694095838814974
+
+number of vehicle: 2, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.9529788494110107
+collision rate: 0.00960959866642952
+
+number of vehicle: 2, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.9306991696357727
+collision rate: 0.012795612215995789
+
+number of vehicle: 2, number of obstacle: 3
+number of trajectories: 4062
+success to goal rate: 0.9218365550041199
+collision rate: 0.016039270907640457
+
+number of vehicle: 2, number of obstacle: 4
+number of trajectories: 4062
+success to goal rate: 0.9101427793502808
+collision rate: 0.018710583448410034
+
+number of vehicle: 3, number of obstacle: 0
+number of trajectories: 4062
+success to goal rate: 0.9706220030784607
+collision rate: 0.014047406613826752
+
+number of vehicle: 3, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.97538161277771
+collision rate: 0.01565496064722538
+
+number of vehicle: 3, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.9737403392791748
+collision rate: 0.017392590641975403
+
+number of vehicle: 3, number of obstacle: 3
+number of trajectories: 4062
+success to goal rate: 0.9714426398277283
+collision rate: 0.019645506516098976
+
+number of vehicle: 3, number of obstacle: 4
+number of trajectories: 4062
+success to goal rate: 0.9723452925682068
+collision rate: 0.022044772282242775
+
+number of vehicle: 4, number of obstacle: 0
+number of trajectories: 4062
+success to goal rate: 0.9479320645332336
+collision rate: 0.0199668537825346
+
+number of vehicle: 4, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.9806745648384094
+collision rate: 0.0204459298402071
+
+number of vehicle: 4, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.9815977215766907
+collision rate: 0.021960224956274033
+
+number of vehicle: 4, number of obstacle: 3
+number of trajectories: 4062
+success to goal rate: 0.9821516275405884
+collision rate: 0.023747382685542107
+
+number of vehicle: 5, number of obstacle: 0
+number of trajectories: 4062
+success to goal rate: 0.9312161207199097
+collision rate: 0.025963589549064636
+
+number of vehicle: 5, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.9794682264328003
+collision rate: 0.026115255430340767
+
+number of vehicle: 5, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.9854258894920349
+collision rate: 0.02660745196044445
+
+number of vehicle: 6, number of obstacle: 0
+number of trajectories: 4062
+success to goal rate: 0.9161332845687866
+collision rate: 0.031612154096364975
+
+number of vehicle: 6, number of obstacle: 1
+number of trajectories: 4062
+success to goal rate: 0.9805514812469482
+collision rate: 0.030916821211576462
+
+number of vehicle: 6, number of obstacle: 2
+number of trajectories: 4062
+success to goal rate: 0.9887165427207947
+collision rate: 0.03182751685380936
